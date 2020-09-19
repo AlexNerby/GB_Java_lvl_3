@@ -16,7 +16,7 @@ public class Box<T extends Fruit> {
             }
         }
     }
-
+//
     public float getWeightBox() {
         float a = 0.0f;
         try {
