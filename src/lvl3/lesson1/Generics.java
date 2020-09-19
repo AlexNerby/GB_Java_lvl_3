@@ -25,7 +25,7 @@ public class Generics {
 
         String[] arrStr = {"1", "2", "3", "4", "5"};
         Integer[] arrInt = {1, 2, 3, 4, 5};
-//
+
         replaceArray(arrStr, 0, 4);
         replaceArray(arrInt, 0, 2);
         System.out.println("=======================");

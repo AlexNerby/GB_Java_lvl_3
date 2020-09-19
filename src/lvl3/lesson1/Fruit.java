@@ -14,7 +14,7 @@ public class Fruit {
     public void setWeight(float weight) {
         this.weight = weight;
     }
-//
+
     @Override
     public String toString() {
         return "Fruit{" +
