@@ -1,4 +1,4 @@
-package lvl3.lesson1;
+package lvl3.lesson_1;
 
 public class Apple extends Fruit {
 
