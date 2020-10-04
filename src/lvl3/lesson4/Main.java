@@ -10,7 +10,7 @@ public class Main {
         new Thread(new Letter('B', 'C')).start();
         new Thread(new Letter('C', 'A')).start();
     }
-
+//
     static class Letter implements Runnable {
         private char letter;
         private char nextLetter;
