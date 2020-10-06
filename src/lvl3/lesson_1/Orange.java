@@ -1,4 +1,6 @@
-package lvl3.lesson1;
+package lvl3.lesson_1;
+
+import lvl3.lesson_1.Fruit;
 
 public class Orange extends Fruit {
 
